@@ -42,7 +42,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
         with:
-          submodules: recursive
+          submodules: https://github.com/dillonzq/LoveIt.git
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v3
