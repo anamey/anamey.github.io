@@ -47,7 +47,7 @@ languageName = "English"
     url = "/categories/"
     title = ""
   [[menu.main]]
-    weight = 3
+    weight = 4
     identifier = "about"
     pre = ""
     post = ""
