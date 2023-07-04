@@ -4,7 +4,7 @@ baseURL = "https://anamey.github.io/"
 theme = "LoveIt"
 
 # website title
-title = "My New Hugo Site"
+title = "anamey's Personal Blog"
 
 # language code ["en", "zh-CN", "fr", "pl", ...]
 languageCode = "en"
@@ -13,7 +13,7 @@ languageName = "English"
 
 # Author config
 [author]
-  name = "Hayley"
+  name = "anamey"
   email = ""
   link = ""
 
