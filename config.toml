@@ -564,7 +564,7 @@ hasCJKLanguage = false
         owner = "anamey"
         repo = "myblog-comment-storage"
         clientId = "bf42b629395e2156b3c8"
-        clientSecret = "2f1c1383a535ceecfc081f8c43d18982a5287919"
+        clientSecret = ""
       # Valine comment config (https://github.com/xCss/Valine)
       # Valine 评论系统设置 (https://github.com/xCss/Valine)
       [params.page.comment.valine]
