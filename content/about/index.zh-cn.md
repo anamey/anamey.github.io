@@ -1,4 +1,25 @@
 ---
+title: "About me"
+date: 2023-08-02
+draft: false
+description: "About me"
+
+lightgallery: true
+
+math:
+  enable: true
+---
+### About Me
+* :(far fa-user-circle fa-fw): **Lifelong Learner** it is self-explainary
+* :(fas fa-i-cursor fa-fw): **Software Engineer** like building stuff
+* :(fas fa-music fa-fw): **Music player** piano & violin player
+* :(fas fa-search fa-fw): **Search** exploring the world
+* :(far fa-comments fa-fw): **Adding comments** below if you want to talk
+
+### What does "anamey" mean?
+It means - "A Name" and y is just a letter at the end from my real name. I have a hard time to name my blog, so end up naming it this way.
+
+<!-- ---
 title: "关于 LoveIt"
 date: 2019-08-02T11:04:49+08:00
 draft: false
@@ -121,4 +142,4 @@ LoveIt 主题中用到了以下项目，感谢它们的作者：
 * [MetingJS](https://github.com/metowolf/MetingJS)
 * [Gitalk](https://github.com/gitalk/gitalk)
 * [Valine](https://valine.js.org/)
-* [cookieconsent](https://github.com/osano/cookieconsent)
+* [cookieconsent](https://github.com/osano/cookieconsent) -->

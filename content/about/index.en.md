@@ -1,6 +1,6 @@
 ---
 title: "About me"
-date: 2023-07-04
+date: 2023-08-02
 draft: false
 description: "About me"
 
@@ -9,8 +9,17 @@ lightgallery: true
 math:
   enable: true
 ---
+### About Me
+* :(far fa-user-circle fa-fw): **Lifelong Learner** it is self-explainary
+* :(fas fa-i-cursor fa-fw): **Software Engineer** like building stuff
+* :(fas fa-music fa-fw): **Music player** piano & violin player
+* :(fas fa-search fa-fw): **Search** exploring the world
+* :(far fa-comments fa-fw): **Adding comments** below if you want to talk
 
-## Features
+### What does "anamey" mean?
+It means - "A Name" and y is just a letter at the end from my real name. I have a hard time to name my blog, so end up naming it this way.
+
+<!-- ## Features
 
 ### Performance and SEO
 
@@ -106,4 +115,4 @@ Thanks to the authors of following resources included in the theme:
 * [MetingJS](https://github.com/metowolf/MetingJS)
 * [Gitalk](https://github.com/gitalk/gitalk)
 * [Valine](https://valine.js.org/)
-* [cookieconsent](https://github.com/osano/cookieconsent)
+* [cookieconsent](https://github.com/osano/cookieconsent) -->
