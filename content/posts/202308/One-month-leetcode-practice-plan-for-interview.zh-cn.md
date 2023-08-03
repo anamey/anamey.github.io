@@ -3,7 +3,7 @@ title: "One Month Leetcode Practice Plan for Interview"
 date: 2023-08-02T18:00:00-07:00
 draft: false
 tags: [leetcode, interview, plan]
-categories: [softwareEngineer]
+categories: [Software Engineer]
 ---
 This is a study plan to help myself to achieve my success of incoming interview. If you somehow find this blog and also have some study plan recently, you are welcome to record your progress here. I can become you online "study company". Hope we will reach our goal at the end!
 So here are my plan:
