@@ -693,7 +693,7 @@ hasCJKLanguage = false
   # Site verification code for Google/Bing/Yandex/Pinterest/Baidu
   # 网站验证代码，用于 Google/Bing/Yandex/Pinterest/Baidu
   [params.verification]
-    google = ""
+    google = "XTLF28tFhTKvi3T2xSTlqbeOqb2692A3fbfirltVLjQ"
     bing = ""
     yandex = ""
     pinterest = ""
