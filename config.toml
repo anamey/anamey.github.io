@@ -6,6 +6,8 @@ theme = "LoveIt"
 # website title
 title = "anamey's Personal Blog"
 
+enableGitInfo = true
+
 # Multilingual
 # 多语言
 defaultContentLanguage = "en"
@@ -96,12 +98,6 @@ hasCJKLanguage = false
         url = "/about/"
         title = ""
 
-# Author config
-[author]
-  name = "anamey"
-  email = ""
-  link = ""
-
 # Menu config
 [menu]
   [[menu.main]]
@@ -176,6 +172,13 @@ hasCJKLanguage = false
   # website images for Open Graph and Twitter Cards
   # 网站图片, 用于 Open Graph 和 Twitter Cards
   images = []
+
+  # Author config
+  # 作者配置
+  [params.author]
+    name = "anamey"
+    email = ""
+    link = ""
 
   # Header config
   # 页面头部导航栏配置
